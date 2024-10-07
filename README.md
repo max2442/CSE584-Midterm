@@ -1,11 +1,11 @@
 # CSE584-Midterm
 The following depencies are required to replicate the data and methodology described in the PDF-file in this repository:
-  pandas
-  transformers
-  pytorch
-  scikit-learn
-  matplotlib
-  numpy
+  pandas,
+  transformers,
+  pytorch,
+  scikit-learn,
+  matplotlib,
+  numpy,
   ax-platform
 
 To Generate the Data run generate_data.py: 
